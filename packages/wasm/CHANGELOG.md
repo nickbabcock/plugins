@@ -1,5 +1,11 @@
 # @rollup/plugin-wasm ChangeLog
 
+## v5.2.0
+
+_2022-03-10_
+
+This is a forked version of @rollup/plugin-wasm with the `targetEnv` option added.
+
 ## v5.1.2
 
 _2020-12-14_
